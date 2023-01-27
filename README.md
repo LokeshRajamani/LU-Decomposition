@@ -18,8 +18,8 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 
 Program to find the L and U matrix.
-Developed by: yoheshkumar R.M
-RegisterNumber: 22008459
+Developed by: Lokesh R
+RegisterNumber: 22009464
 
 ```
 ```python
@@ -34,8 +34,8 @@ print(U)
 ```
 
 Program to find the LU Decomposition of a matrix.
-Developed by: yoheshkumar R.M
-RegisterNumber: 22008459
+Developed by: Lokesh
+RegisterNumber: 22009464
 
 ```
 ```python
